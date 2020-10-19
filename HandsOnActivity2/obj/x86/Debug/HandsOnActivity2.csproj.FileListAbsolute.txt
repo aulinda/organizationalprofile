@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2010\Projects\HandsOnActivity2\HandsOnActivity2\obj\x86\Debug\HandsOnActivity2.frmRegistration.resources
+c:\users\user\documents\visual studio 2010\Projects\HandsOnActivity2\HandsOnActivity2\obj\x86\Debug\HandsOnActivity2.frmConfirmation.resources
+c:\users\user\documents\visual studio 2010\Projects\HandsOnActivity2\HandsOnActivity2\obj\x86\Debug\HandsOnActivity2.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\HandsOnActivity2\HandsOnActivity2\obj\x86\Debug\HandsOnActivity2.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\HandsOnActivity2\HandsOnActivity2\bin\Debug\HandsOnActivity2.exe
+c:\users\user\documents\visual studio 2010\Projects\HandsOnActivity2\HandsOnActivity2\bin\Debug\HandsOnActivity2.pdb
+c:\users\user\documents\visual studio 2010\Projects\HandsOnActivity2\HandsOnActivity2\obj\x86\Debug\HandsOnActivity2.exe
+c:\users\user\documents\visual studio 2010\Projects\HandsOnActivity2\HandsOnActivity2\obj\x86\Debug\HandsOnActivity2.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\HandsOnActivity2\HandsOnActivity2\obj\x86\Debug\HandsOnActivity2.csprojResolveAssemblyReference.cache
